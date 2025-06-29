@@ -77,22 +77,21 @@ Building this Power BI dashboard enhanced my data visualization skills and allow
 
 ### 1. Overview & Demographics
 
-### Overview & Demographics
-![Overview]([Overview and Demographics.png](https://github.com/Sanjesh12/Mental-Health-Insight-Dashboard-Panic-Attack-Case-Study-/blob/main/Overview%20and%20Demographics.png))
+![Overview & Demographics](Overview%20and%20Demographics.png)
 
 ### 2. Lifestyle & Behavioral Patterns
 
-![Dashboard Lifestyle & Behavioral Patterns](image2)
+![Lifestyle & Behavioral Patterns](Lifestyle%20%26%20Behavioral%20Patterns%20dashboard.png)
 
 ### 3. Symptoms & Therapy
 
-![Dashboard Symptoms & Therapy](image3)
+![Symptoms & Therapy](Go%20To%20Symptoms%20And%20Therapy.png)
 
 ---
 
 **Author:** Sanjesh12  
 **Files:**  
-- Power BI report (PDF)  
-- Dashboard images (PDF)
+- [Project report](/Panic%20Attack%20Data%20Analyst%20Project.pdf)  
+- [Power BI Dashboard](Panic%20Attack%20Dashboard.pbix)
 
 Feel free to explore the PDF files in this directory for more details and visualizations!
