@@ -77,7 +77,8 @@ Building this Power BI dashboard enhanced my data visualization skills and allow
 
 ### 1. Overview & Demographics
 
-![Overview and Demographics.png](image1)
+### Overview & Demographics
+![Overview]([Overview and Demographics.png](https://github.com/Sanjesh12/Mental-Health-Insight-Dashboard-Panic-Attack-Case-Study-/blob/main/Overview%20and%20Demographics.png))
 
 ### 2. Lifestyle & Behavioral Patterns
 
