@@ -77,7 +77,7 @@ Building this Power BI dashboard enhanced my data visualization skills and allow
 
 ### 1. Overview & Demographics
 
-![Dashboard Overview & Demographics](image1)
+![Overview and Demographics.png](image1)
 
 ### 2. Lifestyle & Behavioral Patterns
 
